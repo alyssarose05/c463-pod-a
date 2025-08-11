@@ -17,4 +17,4 @@ C463 Pod A
 ## Tableau dashboards
 - NYC Eviction Visuals by Austin Introna: https://public.tableau.com/app/profile/austin.introna/viz/NYCEvictionVisuals/NumberofEvictionsPerMarshalPerBorough
 - NYC Housing Authority Evictions by Alyssa Ayala: https://public.tableau.com/app/profile/alyssa.ayala/viz/COOPEvictions/Top5EvictedAddresses?publish=yes
-- Eviction project by Edlison Li: https://public.tableau.com/app/profile/edlison.li/viz/EvictionProject_17278148647340/Pie#2
+- Eviction Project by Edlison Li: https://public.tableau.com/app/profile/edlison.li/viz/EvictionProject_17278148647340/Pie#2
